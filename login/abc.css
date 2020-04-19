@@ -1,0 +1,9 @@
+div.abc {
+  background-color: lightgrey;
+  width: 500px;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
