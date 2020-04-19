@@ -2,7 +2,7 @@
 	$email="";
 	$password="";
 
-	$db=mysqli_connect("localhost","root","","logindb");
+	$db=mysqli_connect("localhost","id13348602_sakshi","hd@iRp\&kF+7>/Pt","id13348602_logindb");
 	if(isset($_POST['login'])){
 		$email=$_POST['email_id'];
 		$password=$_POST['password'];
